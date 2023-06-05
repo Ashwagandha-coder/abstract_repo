@@ -4,5 +4,7 @@ class Begin {
 
     private val mutableList = mutableListOf<Int>()
 
+    fun make() {}
+
 
 }
