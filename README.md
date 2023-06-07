@@ -26,7 +26,9 @@ Status is Development
 - System
 - ..... list will new positions
 
+## Graphs
 
+Here will graph themes
 
 ## Lang
 Kotlin
