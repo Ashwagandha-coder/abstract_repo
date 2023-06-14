@@ -10,7 +10,7 @@ Only part code for learn android, jdk, libs framework
 
 ## Status
 
-Status is Development
+development.....
 
 ## Abstract
 
