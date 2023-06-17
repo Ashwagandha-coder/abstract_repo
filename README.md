@@ -16,8 +16,9 @@ development.....
 
 ### Theme
 
+Java:
+
 - Atomic
-- View
 - Collection:
    - HashMap
    - ArrayList 
@@ -25,6 +26,10 @@ development.....
    - LinkedList
    - ConcurrentHashMap
    - Thread - Safe collection
+
+Android:
+
+- View
 
 - System
 - ..... list will new positions
