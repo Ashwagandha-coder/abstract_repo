@@ -10,14 +10,15 @@ Only part code for learn android, jdk, libs framework
 
 ## Status
 
-Status is Development
+development.....
 
 ## Abstract
 
 ### Theme
 
+Java:
+
 - Atomic
-- View
 - Collection:
    - HashMap
    - ArrayList 
@@ -25,7 +26,14 @@ Status is Development
    - LinkedList
    - ConcurrentHashMap
    - Thread - Safe collection
+ 
+Kotlin:
+- Coroutine
 
+Android:
+
+- View
+- ViewGroup
 - System
 - ..... list will new positions
 
