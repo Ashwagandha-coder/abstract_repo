@@ -3,6 +3,7 @@ package ru.github.abstract_repo
 import android.app.Activity
 import android.view.View
 import kotlin.coroutines.CoroutineContext
+import kotlin.jvm.internal.Intrinsics.Kotlin
 
 
 /**
@@ -17,6 +18,9 @@ class Theme {
 
     private val coroutine: Coroutine
     private val annotation: Annotation
+
+    private val gradle: Gradle
+    private val kotlin: Kotlin
 
 
 }
