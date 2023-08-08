@@ -22,5 +22,7 @@ class Theme {
     private val gradle: Gradle
     private val kotlin: Kotlin
 
+    private val arch: Arch
+
 
 }
