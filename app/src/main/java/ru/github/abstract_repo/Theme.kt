@@ -2,6 +2,9 @@ package ru.github.abstract_repo
 
 import android.app.Activity
 import android.app.Application
+import android.app.Service
+import android.content.BroadcastReceiver
+import android.content.ContentProvider
 import android.view.View
 import kotlin.coroutines.CoroutineContext
 import kotlin.jvm.internal.Intrinsics.Kotlin
@@ -32,6 +35,10 @@ class Theme {
     private val psvm: Public Static Void Main
     private val application: Application
     // link - Application - Activity
+
+    private val service: Service
+    private val broadcastReceiver: BroadcastReceiver
+    private val contentProvider: ContentProvider
 
 
 }
