@@ -1,6 +1,7 @@
 package ru.github.abstract_repo
 
 import android.app.Activity
+import android.app.Application
 import android.view.View
 import kotlin.coroutines.CoroutineContext
 import kotlin.jvm.internal.Intrinsics.Kotlin
@@ -23,6 +24,14 @@ class Theme {
     private val kotlin: Kotlin
 
     private val arch: Arch
+
+
+    // Inner
+
+    private val activityTherad: ActivityThread
+    private val psvm: Public Static Void Main
+    private val application: Application
+    // link - Application - Activity
 
 
 }
