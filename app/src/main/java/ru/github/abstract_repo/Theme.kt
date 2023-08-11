@@ -5,6 +5,7 @@ import android.app.Application
 import android.app.Service
 import android.content.BroadcastReceiver
 import android.content.ContentProvider
+import android.support.v4.app.Fragment
 import android.view.View
 import kotlin.coroutines.CoroutineContext
 import kotlin.jvm.internal.Intrinsics.Kotlin
@@ -39,6 +40,9 @@ class Theme {
     private val service: Service
     private val broadcastReceiver: BroadcastReceiver
     private val contentProvider: ContentProvider
+
+
+    private val fragment: Fragment
 
 
 }
